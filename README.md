@@ -1,2 +1,2 @@
 # vrRoom
- vr room 
+Room in VR - first iteration 

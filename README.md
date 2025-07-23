@@ -1,3 +1,2 @@
 # vrRoom
-Room in VR - first iteration 
-Models made in blender and imported as assets into Godot.
+Room in VR - first iteration; models made in Blender and imported as assets into Godot
